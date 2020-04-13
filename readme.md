@@ -8,6 +8,6 @@ Ours is a modest contribution. We don’t expect, nor have the capacity, to host
 
 We would be delighted if you felt inclined to support this initiative by sharing a story of your own about what’s going on right now in your own community. Equally, if you would like to explore how you might host your own local version of the platform or have the capabilities to further develop the idea, we’d be delighted to hear from you.
 
-Share your story <a href="https://stories.limequery.com/662265" target="_blank" >here</a>
+Share your story <a href="https://togetherapart.xyz/limesurvey/index.php/662265" target="_blank" >here</a>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">together-apart</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://myfastestmile.com" property="cc:attributionName" rel="cc:attributionURL">myfastestmile c.i.c.</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
