@@ -10,6 +10,11 @@
         "label": "B",
         "type": "Letter",
         "Favorite Dessert": "shave ice"
+    },
+    {
+        "label": "C",
+        "type": "Letter",
+        "Favorite Dessert": "pudding"
     }
   ],
   "connections": [
